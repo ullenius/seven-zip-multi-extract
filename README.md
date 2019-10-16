@@ -4,7 +4,8 @@ author: Anosh
 2019-10-16
 
 ## Description
-Mass extracts 7z-archives in the working directory to subfolders named after the archive. Whitespace and file extension is removed from the directory-names.
+Mass extracts 7z-archives in the working directory to subfolders named after 
+the archive. Whitespace and file extension is removed from the directory-names.
 
 ###For example:
 The contents of
