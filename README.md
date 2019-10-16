@@ -1,4 +1,4 @@
-#7z unzipper
+# 7z unzipper
 author: Anosh
 
 2019-10-16
@@ -7,16 +7,18 @@ author: Anosh
 Mass extracts 7z-archives in the working directory to subfolders named after 
 the archive. Whitespace and file extension is removed from the directory-names.
 
-###For example:
+### For example:
 The contents of
+
     My Archive.7z
 gets extracted to a folder named
+
     MyArchive/
 
 ## Usage
 Run `gbs-ls.sh` without arguments
 
-##Requirements:
+## Requirements:
 
 * bash
 * xargs
